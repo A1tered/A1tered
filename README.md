@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A1tered
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Networking and ruby
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
